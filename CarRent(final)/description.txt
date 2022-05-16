@@ -1,0 +1,10 @@
+You can:
+Log in as a manager
+Log in as a customer
+Create a customer
+Choose customer
+Create a company
+See all companies
+Add cars
+Any customer can rent any existing car from any existing company
+Return rented car
