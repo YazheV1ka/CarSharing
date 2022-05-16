@@ -1,0 +1,6 @@
+You can:
+Log in as a manager
+Create a company
+See all companies
+Log in as a customer
+Create a customer
