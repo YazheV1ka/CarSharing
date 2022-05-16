@@ -1,0 +1,4 @@
+You can:
+login as a manager
+create a company
+see all companies
